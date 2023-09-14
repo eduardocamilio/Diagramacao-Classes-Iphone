@@ -13,7 +13,7 @@ Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="docs/iPhone-modelagem.png" alt="Diagrama de Classes">
+  <img src="docs/diagrama-iphone.png" alt="Diagrama de Classes">
 </p>
 
 
